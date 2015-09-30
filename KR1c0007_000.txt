@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩指說
-#+DATE: 2015-09-23 09:36:27
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:04:21.998815
+#+PROPERTY: ID KR1c0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1c0007_WYG_000-1a>¶
 欽定四庫全書　　　　經部三¶
 　毛詩指説　　　　　　詩類¶
@@ -32,4 +34,3 @@
 <pb:KR1c0007_WYG_000-2b>¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
